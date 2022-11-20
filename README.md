@@ -1,16 +1,24 @@
-# QR-Code-Generator-Decoder
-Generate the QR Code of entered text/URL using Python GUI and decode any QR Code image using this interface.
+# **QR-Code-Generator-Decoder**
+### _Generate the QR Code of entered text/URL using Python GUI and decode any QR Code image using this interface._
 
-Commands to install required libraries -
-  pip install qrcode
-  pip install opencv-python
+# Commands to install required libraries -
 
-Update -
+```python
+pip install qrcode
+```
+
+```python
+pip install opencv-python
+```
+
+# Update -
   In QR.py file, update the path in which you have to save the image file (Line - 44).
 
 
-Run QR.py file using command:
-  python QR.py
+### Run QR.py file using command:
 
+```python
+python QR.py
+```
 
 
