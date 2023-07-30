@@ -20,5 +20,6 @@ pip install opencv-python
 ```python
 python QR.py
 ```
+![image](https://github.com/Shuchith2507/QR-Code-Generator-Decoder/assets/115855123/89f5dbbb-a0f5-4403-9367-d3e55d1095d0)
 
 
